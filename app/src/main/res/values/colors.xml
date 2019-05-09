@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/colorPrimaryDark</color>
+    <color name="colorPrimaryDark">#e3e3e3</color>
+    <color name="colorAccent">#1686db</color>
+
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorTextWhite">#fcfcfc</color>
+    <color name="colorWhiteHeader">#f5f5f5</color>
+    <color name="colorAppBg">#f0f0f0</color>
+
+    <color name="colorProgressWheelInActive">#e5e5e5</color>
+    <color name="colorTextGray">#a6a5a5</color>
+    <color name="textColorLight">#a6a5a5</color>
+    <color name="colorTextBackLight">#848484</color>
+    <color name="colorTextBack">#333333</color>
+    <color name="textColorDark">#000000</color>
+
+    <color name="colorGreen">#2fcc70</color>
+    <color name="colorProgressWheelActive">@color/colorGreen</color>
+
+    <color name="ColorTextCancelBooking">@color/colorAccent</color>
+    <color name="colorRed">#fb3535</color>
+    <color name="ratingBarProgressColor">#FFA800</color>
+    <color name="navSelection">#e06331</color>
+    <color name="colorLineSeparator">#a6a5a5</color>
+</resources>
